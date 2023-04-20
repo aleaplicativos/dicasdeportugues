@@ -1,9 +1,8 @@
 const dicas = [
-	"Dica: Evite usar gírias em textos formais.",
-	"Dica: Sempre utilize a vírgula antes da conjunção 'e' quando há mais de dois elementos.",
-	"Dica: Use 'a' antes de palavras femininas e 'o' antes de palavras masculinas.",
-	"Dica: O correto é 'mais' quando se refere a quantidade e 'mas' quando se opõe a algo.",
-  "Dica: Sempre coloque acento no 'é' (verbo ser) e no 'é' (verbo estar) para diferenciar ações permanentes de ações momentâneas.",
+"Dica: Evite usar gírias em textos formais.",
+"Dica: Sempre utilize a vírgula antes da conjunção 'e' quando há mais de dois elementos.",
+"Dica: Use 'a' antes de palavras femininas e 'o' antes de palavras masculinas.",	"Dica: O correto é 'mais' quando se refere a quantidade e 'mas' quando se opõe a algo.",
+"Dica: Sempre coloque acento no 'é' (verbo ser) e no 'é' (verbo estar) para diferenciar ações permanentes de ações momentâneas.",
 "Dica: Use o hífen para unir as palavras compostas (como 'pé-de-moleque', 'guarda-chuva', etc).",
 "Dica: Evite usar palavras vulgares ou de baixo calão em textos formais.",
 "Dica: Utilize a crase antes de substantivos femininos que indicam lugar (como 'à escola', 'à igreja', etc).",
@@ -23,8 +22,8 @@ const dicas = [
 "Dica: Utilize o acento grave para indicar a crase, que é a contração da preposição 'a' com o artigo feminino 'a', como em 'à casa' e 'à escola'",
 "Dica: Utilize o trema para indicar a pronúncia correta de vogais que formam um hiato, como em 'linguiça'",
 "Dica: Utilize o acento diferencial em palavras homógrafas para diferenciá-las, como em 'pôde' (pretérito perfeito do verbo poder) e 'pode' (presente do indicativo do verbo poder)'",
-	"Dica: Utilize 'onde' quando se refere a lugar físico e 'em que' quando se refere a lugar abstrato.",
-  "Dica: As palavras proparoxítonas sempre são acentuadas, como em 'sábado', 'próximo' e 'próton'.",
+"Dica: Utilize 'onde' quando se refere a lugar físico e 'em que' quando se refere a lugar abstrato.",
+"Dica: As palavras proparoxítonas sempre são acentuadas, como em 'sábado', 'próximo' e 'próton'.",
 "Dica: As palavras terminadas em ditongo crescente (ou seja, quando a vogal mais fraca vem primeiro) são acentuadas, como em 'saúde', 'chapéu' e 'herói'.",
 "Dica: As palavras terminadas em 'em', 'ens' e 'on' são acentuadas na sílaba tônica, como em 'parabéns', 'hífen' e 'órgão'.",
 "Dica: As palavras terminadas em 'ã', 'ãs', 'ão' e 'ões' são acentuadas, como em 'amanhã', 'irmãs', 'coração' e 'nações'.",
@@ -83,7 +82,6 @@ const dicas = [
 "Dica: o termo 'por que' é usado em perguntas diretas e indiretas, representando uma dúvida, como em 'Por que você não veio à festa?' ou 'Não entendi por que você não veio à festa'.",
 "Dica: 'Por quê' é utilizado no final de uma frase quando representa uma pergunta, como em 'Você não veio à festa por quê?'.",
 "Dica: 'Porque' (junto) é utilizado como conjunção em frases que possuem duas orações, como em 'Não fui à festa porque estava doente e precisava descansar'.",
-
 
 ];
 
